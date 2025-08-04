@@ -1,5 +1,5 @@
 ## 💫 About Me
-Recent grad from Georgia Tech with 2+ years of experience in software development, data engineering, and product management. With hands-on experience in full-stack development, database optimization, and IoT projects, I bring a versatile set of technical skills and a strong foundation in non-technical skills in regards to client-facing work.
+
 
 ## 💻 Tech Stack
 
