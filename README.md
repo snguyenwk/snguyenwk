@@ -1,5 +1,5 @@
 ## 💫 About Me
-Hello
+Hello, my name is Steven Nguyen and I earned my bachelors of Computer Science from Georgia Tech Summer 2025. I am currently a **software engineer** currently at **Encompass Supply Chain Solutions** in Lawrenceville. I have a strong foundation in data-driven solutions, project development and software development. Everyday I code, I strive to build tools and systems that solve real-world solutions.
 
 
 ## 💻 Tech Stack
